@@ -1,0 +1,4 @@
+fuzzy 53
+mate 32
+apple 11
+lion 23
